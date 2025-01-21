@@ -39,7 +39,8 @@ SQL Queries performed
 13. List the total number of persons and average rating for each country, but only for countries with more than 2 persons, ordered by average rating in ascending order
 
 
-3. Explanation of Queries used
+ 
+ Explanation of Queries used
 -------------------------------------------------------
    1. LEFT Function: This query uses the LEFT() function to extract the first three characters of the Country_name from the Country table.
    2. CONCAT Function: The CONCAT() function is used to combine the Fname and Lname columns from the Persons table to create a full name.
